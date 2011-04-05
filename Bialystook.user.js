@@ -13,9 +13,9 @@ var btn_replacer = function() {
   
   var spans = document.getElementsByClassName("default_message");
   for(var i=0; i<spans.length; i++) {
-    if (spans[i].innerText == text1) {
+    if (spans[i].innerText == text1 || spans[i].innerHTML == text1) {
       spans[i].innerHTML = text1_replacer;
-    } else if (spans[i].innerText == text2) {
+    } else if (spans[i].innerText == text2 || spans[i].innerHTML == text2) {
       spans[i].innerHTML = text2_replacer;
     }
   }
