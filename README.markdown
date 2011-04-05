@@ -1,20 +1,22 @@
+# Bialystook
+
 Userscript dla użytkowników Google Chrome oraz Firefox (poprzez Greasemonkey), który zamienia nudne "Lubię to!" oraz "Nie lubię", na swojsko brzmiące "Dla mnie się to podoba!" oraz "Badziewie".
 
-= Instalacja
+## Instalacja
 
-== Google Chrome
+### Google Chrome
 
 1. Klikamy na link: https://github.com/hubertlepicki/Bialystook/raw/master/Bialystook.user.js
 2. Akceptujemy rozszerzenie (przycisk "Kontynuuj" na dole ekranu).
 3. Wchodzimy na Facebooka i gnijemy.
 
-== Mozilla Firefox
+### Mozilla Firefox
 
 1. Instalujemy rozszerzenie Greasemonkey z tej strony: https://addons.mozilla.org/pl/firefox/addon/greasemonkey/
 2. Klikamy na link: https://github.com/hubertlepicki/Bialystook/raw/master/Bialystook.user.js i instalujemy rozszerzenie.
 3. Wchodzimy na Facebooka i gnijemy.
 
-= Licencja
+## Licencja
 
 Copyright (C) 2011 by Hubert Łępicki
 
