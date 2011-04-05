@@ -6,14 +6,14 @@ Userscript dla użytkowników Google Chrome oraz Firefox (poprzez Greasemonkey),
 
 ### Google Chrome
 
-1. Klikamy na link: https://github.com/hubertlepicki/Bialystook/raw/master/Bialystook.user.js
+1. Klikamy na link: <https://github.com/hubertlepicki/Bialystook/raw/master/Bialystook.user.js>
 2. Akceptujemy rozszerzenie (przycisk "Kontynuuj" na dole ekranu).
 3. Wchodzimy na Facebooka i gnijemy.
 
 ### Mozilla Firefox
 
-1. Instalujemy rozszerzenie Greasemonkey z tej strony: https://addons.mozilla.org/pl/firefox/addon/greasemonkey/
-2. Klikamy na link: https://github.com/hubertlepicki/Bialystook/raw/master/Bialystook.user.js i instalujemy rozszerzenie.
+1. Instalujemy rozszerzenie Greasemonkey z tej strony: <https://addons.mozilla.org/pl/firefox/addon/greasemonkey/>
+2. Klikamy na link: <https://github.com/hubertlepicki/Bialystook/raw/master/Bialystook.user.js> i instalujemy rozszerzenie.
 3. Wchodzimy na Facebooka i gnijemy.
 
 ## Licencja
