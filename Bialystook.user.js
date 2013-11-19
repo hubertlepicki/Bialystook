@@ -3,6 +3,7 @@
 // @namespace     http://youngpup.net/userscripts
 // @description	  Zamienia "Lubię to" na "Dla mnie się to podoba"
 // @include       http://www.facebook.com/*
+// @include       https://www.facebook.com/*
 // ==/UserScript==
 
 var btn_replacer = function() {
@@ -11,7 +12,7 @@ var btn_replacer = function() {
   var text1_replacer = "Dla mnie się to podoba!";
   var text2_replacer = "Badziewie!";
   
-  var spans = document.getElementsByClassName("default_message");
+  var spans = document.getElementsByClassName("UFILikeLink");
   for(var i=0; i<spans.length; i++) {
     if (spans[i].innerText == text1 || spans[i].innerHTML == text1) {
       spans[i].innerHTML = text1_replacer;
